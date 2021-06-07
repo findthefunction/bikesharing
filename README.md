@@ -48,7 +48,7 @@ We have presented the data using a variety of visual outputs in order to create 
 
   - For an interactive experience with the presented data please click on the link below
 
-https://public.tableau.com/profile/christopher.thomas3349#!/
+[link to dashboard](https://public.tableau.com/app/profile/christopher.thomas3349/viz/unitstory/CitibikeStory)
 
 ## Summary:
 
