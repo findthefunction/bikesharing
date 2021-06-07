@@ -1,10 +1,10 @@
-# bikesharing is caring
+# Bike sharing is caring
 
 ##Overview of the statistical analysis:
 
 Citibike has tasked us with identifying and presenting data pulled from their network of bicycles to find the best way to optimize their resources and optimize their maintenance based on these determinations.  The data has been broken down on timescale, geographic and gender based level to provide actionable insights.
 
-##Results:
+## Results:
 
 We have presented the data using a variety of visual outputs in order to create greater insight for the customer:
 
@@ -41,9 +41,4 @@ We have presented the data using a variety of visual outputs in order to create 
 
 Summary:
 
-  Citibike has taken developed a very useful system to enable users to travel in a fun and environmentally conscientious way.  The data we gathered provides helpful insight into the time of day and length of commutes.  Peak demand aligns with typical weekday commutes and the duration of rides are typically between 5 and 20 minutes long.
-
-
-
-
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+  Citibike has taken developed a very useful system to enable users to travel in a fun and environmentally conscientious way.  The data we gathered provides helpful insight into the time of day and length of commutes.  Peak demand aligns with typical weekday commutes and the duration of rides are typically between 5 and 20 minutes long.  Mapping out the location of parking lots and public transit hubs and comparing the start and end points could identify improved locations to place bikes to ensure demand is being met during peak hours.  Also obtaining service data could help improve new batches of bikes by identifying weak points in the design and serve to extend ridability prior to service.
