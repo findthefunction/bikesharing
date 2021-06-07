@@ -39,6 +39,11 @@ We have presented the data using a variety of visual outputs in order to create 
 
 ![comparison_chart](https://user-images.githubusercontent.com/31022640/120955530-6e592800-c706-11eb-9bba-f6f9004abe01.png)
 
+  - Location Data for start and end locations
+
+![NYC Citi Bike](https://user-images.githubusercontent.com/31022640/120956700-fa6c4f00-c708-11eb-893f-55a4b73c6266.png)
+
+
 ## Summary:
 
   Citibike has taken developed a very useful system to enable users to travel in a fun and environmentally conscientious way.  The data we gathered provides helpful insight into the time of day and length of commutes.  Peak demand aligns with typical weekday commutes and the duration of rides are typically between 5 and 20 minutes long.  Mapping out the location of parking lots and public transit hubs and comparing the start and end points could identify improved locations to place bikes to ensure demand is being met during peak hours.  Also obtaining service data could help improve new batches of bikes by identifying weak points in the design and serve to extend ridability prior to service.
