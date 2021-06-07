@@ -1,6 +1,6 @@
 # Bike sharing is caring
 
-##Overview of the statistical analysis:
+## Overview of the statistical analysis:
 
 Citibike has tasked us with identifying and presenting data pulled from their network of bicycles to find the best way to optimize their resources and optimize their maintenance based on these determinations.  The data has been broken down on timescale, geographic and gender based level to provide actionable insights.
 
@@ -43,6 +43,12 @@ We have presented the data using a variety of visual outputs in order to create 
 
 ![NYC Citi Bike](https://user-images.githubusercontent.com/31022640/120956700-fa6c4f00-c708-11eb-893f-55a4b73c6266.png)
 
+
+## Link to Tableau Public
+
+  - For an interactive experience with the presented data please click on the link below
+
+https://public.tableau.com/profile/christopher.thomas3349#!/
 
 ## Summary:
 
